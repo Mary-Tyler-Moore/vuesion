@@ -52,7 +52,7 @@ jobs:
     machine: true
     working_directory: *working_directory
     environment:
-      APP_NAME: *vuesion-demo
+      APP_NAME: vuesion-demo
     steps:
       - attach_workspace:
           at: *working_directory
