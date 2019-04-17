@@ -3,7 +3,7 @@
   "short_name": "Vuesion",
   "theme_color": "#f43b6c",
   "background_color": "#f43b6c",
-  "display": "standalone",
+  "display": "fullscreen",
   "orientation": "portrait",
   "Scope": "/",
   "start_url": "/",
