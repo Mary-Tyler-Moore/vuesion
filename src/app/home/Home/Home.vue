@@ -2,7 +2,7 @@
   <div>
     <stage :disable-particles="disableParticles" />
     <home-section
-      image="https://images.unsplash.com/photo-1549082984-1323b94df9a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=512&q=60"
+      image="https://suspicious-jones-21bce9.netlify.com/assets/img/work-8.png"
       alternative
     >
       <vue-headline level="2">Developer Experience</vue-headline>
@@ -25,7 +25,7 @@
     </home-section>
 
     <home-section
-      image="https://images.unsplash.com/photo-1521790361543-f645cf042ec4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=512&q=60"
+      image="https://suspicious-jones-21bce9.netlify.com/"
       flip
     >
       <vue-headline level="2">Enterprise ready</vue-headline>
